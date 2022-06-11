@@ -1,0 +1,4 @@
+//Sounds
+sound/mvp/sirenhead.mp3
+sound/mvp/illuminati.mp3
+sound/mvp/johncena.mp3
